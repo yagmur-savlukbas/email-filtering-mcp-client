@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "email-reminder": {
+      "command": "node",
+      "args": [
+        "/ABSOLUTE/PATH/TO/YOUR/email-reminder-mcp/dist/index.js"
+      ],
+      "description": "Filters important emails and surfaces what needs attention"
+    }
+  }
+}
